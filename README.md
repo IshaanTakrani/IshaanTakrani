@@ -1,7 +1,6 @@
 # Ishaan Takrani
 
-- Hi! I'm Ishaan Takrani
-- Check out the stuff i've made
+I've developed full-stack web applications, AI tools and agents, embedded systems, and more.
 
 [LinkedIn](https://www.linkedin.com/in/ishaan-takrani/)
 
